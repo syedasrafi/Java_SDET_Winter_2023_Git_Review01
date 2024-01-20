@@ -9,5 +9,7 @@ public class HelloWorld {
         System.out.println("Test is completed");
 
         System.out.println("end");
+        System.out.println("bye");
+
     }
 }
