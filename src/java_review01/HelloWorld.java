@@ -7,5 +7,7 @@ public class HelloWorld {
 
         System.out.println("This is a test");
         System.out.println("Test is completed");
+
+        System.out.println("end");
     }
 }
